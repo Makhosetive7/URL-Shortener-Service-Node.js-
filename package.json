@@ -1,0 +1,37 @@
+{
+  "name": "url-shortener-service-node.js-",
+  "version": "1.0.0",
+  "description": "A high-performance URL shortener with analytics, built with Node.js, Express, and Redis.",
+   "main": "server.js",
+  "author": {
+    "name": "Makhosetive Sibanda",
+    "email": "sibandamakhosetive@gmail.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Makhosetive7/URL-Shortener-Service-Node.js-.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Makhosetive7/URL-Shortener-Service-Node.js-/issues"
+  },
+  "homepage": "https://github.com/Makhosetive7/URL-Shortener-Service-Node.js-#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.1.0",
+    "express": "^5.1.0",
+    "geoip-lite": "^1.4.10",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.2",
+    "nanoid": "^5.1.5",
+    "ua-parser-js": "^2.0.4"
+  }
+}
