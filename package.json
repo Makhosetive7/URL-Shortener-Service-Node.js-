@@ -2,7 +2,7 @@
   "name": "url-shortener-service-node.js-",
   "version": "1.0.0",
   "description": "A high-performance URL shortener with analytics, built with Node.js, Express, and Redis.",
-   "main": "server.js",
+  "main": "server.js",
   "author": {
     "name": "Makhosetive Sibanda",
     "email": "sibandamakhosetive@gmail.com"
