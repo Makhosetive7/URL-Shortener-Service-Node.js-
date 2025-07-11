@@ -15,8 +15,7 @@ A high-performance URL shortener with analytics, built with Node.js, Express, an
 ## 🚀 Quick Start
 ```bash
 # Clone repo
-git clone https://github.com/your-repo/url-shortener.git
-cd url-shortener
+https://github.com/Makhosetive7/URL-Shortener-Service-Node.js-.git
 
 # Install dependencies
 npm install
